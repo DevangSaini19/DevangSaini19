@@ -12,9 +12,9 @@ Aspiring Software Engineer • Information Technology Undergraduate • India
 
 ## About
 
-I build projects to turn ideas into working software—from Hand-Bridge, a real-time Indian Sign Language translator built with MediaPipe and TensorFlow.js, to a Java-based Hospital Management System designed to strengthen backend and database fundamentals.
+I build projects that turn ideas into working software — from **a real-time Indian Sign Language translator** to Java-based **Hospital Management System** — while strengthening my backend and database fundamentals.
 
-Beyond projects, I'm consistently solving DSA in Java, exploring backend systems and machine learning through hands-on implementation, and looking for a software engineering internship where I can learn from experienced engineers, contribute to real-world software, and continue growing as a developer.
+I'm consistently solving **DSA in Java**, exploring backend development and machine learning through hands-on implementation, and seeking a **Software Engineering Internship** where I can contribute and continue growing.
 
 <br>
 
