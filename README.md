@@ -49,7 +49,4 @@ I'm consistently solving **DSA in Java**, exploring backend development and mach
   <a href="https://www.linkedin.com/in/devangsaini46/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://leetcode.com/u/Devang_Saini19/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
 </p>
