@@ -25,7 +25,7 @@ I'm consistently solving **DSA in Java**, exploring backend development and mach
 - Exploring backend development
 - Exploring Machine Learning through implementation
 - Contributing to open source
-  
+
 <br>
 
 ## Technologies
