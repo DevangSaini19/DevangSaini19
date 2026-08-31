@@ -34,11 +34,6 @@ I'm consistently solving **DSA in Java**, exploring backend development and mach
   <img src="https://skillicons.dev/icons?i=java,py,html,css,django,mysql,sqlite&perline=7" />
 </p>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevangSaini19&theme=github-compact&hide_border=true" width="100%" />
-</p>
 
 ## Connect
 
